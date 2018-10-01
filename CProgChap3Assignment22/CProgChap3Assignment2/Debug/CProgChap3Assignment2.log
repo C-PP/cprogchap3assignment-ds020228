@@ -1,3 +1,3 @@
-﻿  platinum.cpp
-c:\users\user\documents\visual studio 2015\projects\cprogchap3assignment2\cprogchap3assignment2\platinum.cpp(26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\user\documents\visual studio 2015\projects\cprogchap3assignment2\cprogchap3assignment2\platinum.cpp(6): fatal error C1075: the left brace '{' was unmatched at the end of the file
+﻿  2.3 two_func.cpp
+c:\users\내 컴퓨터\documents\github\cprogchap3assignment-ds020228\cprogchap3assignment22\cprogchap3assignment2\2.3 two_func.cpp(5): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  CProgChap3Assignment2.vcxproj -> C:\Users\내 컴퓨터\Documents\GitHub\cprogchap3assignment-ds020228\CProgChap3Assignment22\Debug\CProgChap3Assignment2.exe
